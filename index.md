@@ -7,10 +7,10 @@
     - [Data Collection](#data-collection)
     - [Geodatabase Delivered](#geodatabase-delivered)
     - [Software Development Management](#software-development-management)
-  - [<span style="color:orange">2022 May 22</span><br>Web Mapping<br>Using [Leaflet]](#2022-may-22web-mappingusing-leaflet)
-  - [<span style="color:orange">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]](#2022-june-03terrain-analysisusing-geobia-to-automatically-delineate-building-footprints-from-dtm-dsm--aerial-image)
-  - [<span style="color:orange">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]](#2022-june-06digital-soil-mappingcomparing-random-forest-with-kriging-in-r)
-  - [<span style="color:orange">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]](#2022-july-01evapotranspirationcreating-and-implementing-the-etlook-model)
+  - [<span style="color:salmon">2022 May 22</span><br>Web Mapping<br>Using [Leaflet]](#2022-may-22web-mappingusing-leaflet)
+  - [<span style="color:sandybrown">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]](#2022-june-03terrain-analysisusing-geobia-to-automatically-delineate-building-footprints-from-dtm-dsm--aerial-image)
+  - [<span style="color:sienna">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]](#2022-june-06digital-soil-mappingcomparing-random-forest-with-kriging-in-r)
+  - [<span style="color:lightseagreen">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]](#2022-july-01evapotranspirationcreating-and-implementing-the-etlook-model)
     - [Support or Contact](#support-or-contact)
 
 ## Welcome to Zandré's Portfolio
@@ -83,15 +83,15 @@ An overview showing the differences between the original and our newly created d
 This exercise handled one of the skills I was interested in learning though I never got around to it before. Teamwork is an unavoidable fact of working on large projects and having a good process to implement everyone's work together is important. GitHub is one way to implement this process and has become quite popular over the years. Having been given an exercise in which I got to learn the skills of working with GitHub gave me a good foundation to build upon going forward. The exercise was not able to touch upon every aspect, although it did cover the major aspects and workings. I believe that the skills I learned here might prove more beneficial one day than I can suspect right now. A good installation instruction for setting up an environment in order to use GitHub can be found [here](https://github.com/713-2022/installation/wiki).
 
 
-## <span style="color:orange">2022 May 22</span><br>Web Mapping<br>[Using [Leaflet](https://leafletjs.com/)]
+## <span style="color:salmon">2022 May 22</span><br>Web Mapping<br>[Using [Leaflet](https://leafletjs.com/)]
 
-## <span style="color:orange">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]
+## <span style="color:sandybrown">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]
 
-## <span style="color:orange">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]
+## <span style="color:sienna">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]
 
-## <span style="color:orange">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]
+## <span style="color:lightseagreen">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]
 
-![tst](https://www.fao.org/aquastat/py-wapor/et_look_v2_network.html)
+[ETLook Conceptual Model](https://www.fao.org/aquastat/py-wapor/et_look_v2_network.html)
 
 ### Support or Contact
 
