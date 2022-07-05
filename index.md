@@ -17,7 +17,7 @@
 
 > History teaches a working understanding of change.
 \
-<t>-Arcadia Publishing
+-Arcadia Publishing
 
 # Learning Experiences:
 
