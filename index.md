@@ -1,27 +1,27 @@
 <style>#label {text-align: right}</style>
 
 - [Learning Experiences:](#learning-experiences)
-  - [<span style="color:orange">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]](#2022-may-09stellenbosch-university-botanical-garden-mapping-new-beds)
+  - [<span style="color:salmon">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]](#2022-may-09stellenbosch-university-botanical-garden-mapping-new-beds)
     - [Project Management](#project-management)
     - [GIS Strategy & Implementation](#gis-strategy--implementation)
     - [Data Collection](#data-collection)
     - [Geodatabase Delivered](#geodatabase-delivered)
     - [Software Development Management](#software-development-management)
   - [<span style="color:salmon">2022 May 22</span><br>Web Mapping<br>Using [Leaflet]](#2022-may-22web-mappingusing-leaflet)
-  - [<span style="color:sandybrown">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]](#2022-june-03terrain-analysisusing-geobia-to-automatically-delineate-building-footprints-from-dtm-dsm--aerial-image)
-  - [<span style="color:sienna">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]](#2022-june-06digital-soil-mappingcomparing-random-forest-with-kriging-in-r)
-  - [<span style="color:lightseagreen">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]](#2022-july-01evapotranspirationcreating-and-implementing-the-etlook-model)
+  - [<span style="color:salmon">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from a DTM, DSM & Aerial Image]](#2022-june-03terrain-analysisusing-geobia-to-automatically-delineate-building-footprints-from-a-dtm-dsm--aerial-image)
+  - [<span style="color:salmon">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]](#2022-june-06digital-soil-mappingcomparing-random-forest-with-kriging-in-r)
+  - [<span style="color:salmon">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]](#2022-july-01evapotranspirationcreating-and-implementing-the-etlook-model)
     - [Support or Contact](#support-or-contact)
 
 ## Welcome to Zandré's Portfolio
 
 > History teaches a working understanding of change.
 \
--Arcadia Publishing
+<t>-Arcadia Publishing
 
 # Learning Experiences:
 
-## <span style="color:orange">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]
+## <span style="color:salmon">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]
 
 ### Project Management
 
@@ -85,11 +85,11 @@ This exercise handled one of the skills I was interested in learning though I ne
 
 ## <span style="color:salmon">2022 May 22</span><br>Web Mapping<br>[Using [Leaflet](https://leafletjs.com/)]
 
-## <span style="color:sandybrown">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]
+## <span style="color:salmon">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from a DTM, DSM & Aerial Image]
 
-## <span style="color:sienna">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]
+## <span style="color:salmon">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]
 
-## <span style="color:lightseagreen">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]
+## <span style="color:salmon">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]
 
 [ETLook Conceptual Model](https://www.fao.org/aquastat/py-wapor/et_look_v2_network.html)
 
