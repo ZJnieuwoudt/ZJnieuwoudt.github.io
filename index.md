@@ -1,12 +1,27 @@
 <style>#label {text-align: right}</style>
+
+- [Learning Experiences:](#learning-experiences)
+  - [<span style="color:tan">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]](#2022-may-09stellenbosch-university-botanical-garden-mapping-new-beds)
+    - [Project Management](#project-management)
+    - [GIS Strategy & Implementation](#gis-strategy--implementation)
+    - [Data Collection](#data-collection)
+    - [Geodatabase Delivered](#geodatabase-delivered)
+    - [Software Development Management](#software-development-management)
+  - [<span style="color:tan">2022 May 22</span><br>Web Mapping<br>Using [Leaflet]](#2022-may-22web-mappingusing-leaflet)
+  - [<span style="color:tan">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]](#2022-june-03terrain-analysisusing-geobia-to-automatically-delineate-building-footprints-from-dtm-dsm--aerial-image)
+  - [<span style="color:tan">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]](#2022-june-06digital-soil-mappingcomparing-random-forest-with-kriging-in-r)
+  - [<span style="color:tan">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]](#2022-july-01evapotranspirationcreating-and-implementing-the-etlook-model)
+    - [Support or Contact](#support-or-contact)
+
 ## Welcome to Zandré's Portfolio
 
 > History teaches a working understanding of change.
+\
 -Arcadia Publishing
 
 # Learning Experiences:
 
-## Stellenbosch University Botanical Garden [Mapping new Beds]
+## <span style="color:tan">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]
 
 ### Project Management
 
@@ -29,7 +44,7 @@ During GIS strategy our project objective required an Entity Relation Diagram (E
 
 Along with the ERD, our project participated in quite a few presentations in order to convey our progress to the client. Throughout my Honours degree so far, our entire class have been tasked to make more presentations than ever have before. Honestly speaking, I dreaded each and every single presentation, though the more I was exposed to presenting the more comfortable I became. I doubt that I’ll ever reach a point where I will enjoy presenting, but I can honestly say that being exposed truly helped me overcome my fear thereof. Here is one of the presentations I made to convey the ERD to the client with my team during this project: [Logical ERD Design](https://lucid.app/documents/view/fd13434c-3f37-4c64-9a2a-2ba3b8b976a1).
 
-## Data Collection
+### Data Collection
 
 ![Data Caprute in Action](media/inAction.jpeg)
 <div id='label'><i>Data Caprute in Action</i></div>
@@ -68,30 +83,13 @@ An overview showing the differences between the original and our newly created d
 This exercise handled one of the skills I was interested in learning though I never got around to it before. Teamwork is an unavoidable fact of working on large projects and having a good process to implement everyone's work together is important. GitHub is one way to implement this process and has become quite popular over the years. Having been given an exercise in which I got to learn the skills of working with GitHub gave me a good foundation to build upon going forward. The exercise was not able to touch upon every aspect, although it did cover the major aspects and workings. I believe that the skills I learned here might prove more beneficial one day than I can suspect right now. A good installation instruction for setting up an environment in order to use GitHub can be found [here](https://github.com/713-2022/installation/wiki).
 
 
+## <span style="color:tan">2022 May 22</span><br>Web Mapping<br>[Using [Leaflet](https://leafletjs.com/)]
 
-```markdown
-Syntax highlighted code block
+## <span style="color:tan">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from DTM, DSM & Aerial Image]
 
-# Header 1
-## Header 2
-### Header 3
+## <span style="color:tan">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZJnieuwoudt/ZJnieuwoudt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## <span style="color:tan">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]
 
 ### Support or Contact
 
