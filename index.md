@@ -23,7 +23,7 @@
 # About Myself:
 some text here
 
-<button type="button">Click Me!</button>
+<button type="button"><a href="media\ZJ_Nieuwoudt_CV_2022.pdf" download="ZJ_Nieuwoudt_CV_2022">My CV</a></button>
 
 ## <span style="color:salmon">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]
 
