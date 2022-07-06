@@ -1,6 +1,12 @@
 <style>#label {text-align: right}</style>
 
-- [Learning Experiences:](#learning-experiences)
+## Welcome to Zandré's Portfolio
+
+> History teaches a working understanding of change.
+\
+-Arcadia Publishing
+
+- [About Myself:](#about-myself)
   - [<span style="color:salmon">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]](#2022-may-09stellenbosch-university-botanical-garden-mapping-new-beds)
     - [Project Management](#project-management)
     - [GIS Strategy & Implementation](#gis-strategy--implementation)
@@ -13,13 +19,11 @@
   - [<span style="color:salmon">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]](#2022-july-01evapotranspirationcreating-and-implementing-the-etlook-model)
     - [Support or Contact](#support-or-contact)
 
-## Welcome to Zandré's Portfolio
 
-> History teaches a working understanding of change.
-\
--Arcadia Publishing
+# About Myself:
+some text here
 
-# Learning Experiences:
+<button type="button">Click Me!</button>
 
 ## <span style="color:salmon">2022 May 09</span><br>Stellenbosch University Botanical Garden <br>[Mapping new Beds]
 
@@ -85,12 +89,19 @@ This exercise handled one of the skills I was interested in learning though I ne
 
 ## <span style="color:salmon">2022 May 22</span><br>Web Mapping<br>[Using [Leaflet](https://leafletjs.com/)]
 
+some text here
+
 ## <span style="color:salmon">2022 June 03</span><br>Terrain Analysis<br>[Using GEOBIA to Automatically Delineate Building Footprints from a DTM, DSM & Aerial Image]
+
+some text here
 
 ## <span style="color:salmon">2022 June 06</span><br>Digital Soil Mapping<br>[Comparing Random Forest with Kriging in R]
 
+some text here
+
 ## <span style="color:salmon">2022 July 01</span><br>Evapotranspiration<br>[Creating and Implementing the ETLook model]
 
+some text here
 [ETLook Conceptual Model](https://www.fao.org/aquastat/py-wapor/et_look_v2_network.html)
 
 ### Support or Contact
